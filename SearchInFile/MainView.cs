@@ -1,8 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using ISorterNamespace;
 using SearchInFile.Presenters;
 using SearchInFile.View.Interfaces;
@@ -12,19 +9,13 @@ namespace SearchInFile.View
     class MainView : IMainView
     {
         private Presenter presenter;
-
-        List<ISearcher> searchers = new List<ISearcher>();
+        readonly List<ISearcher> searchers = new List<ISearcher>();
 
         public MainView()
         {
             presenter = new Presenter(this);
             presenter.OnMainViewLoad();
-        }
-
-        //public void MainMenu()
-        //{
-
-        //}
+        } 
 
         public void CreateMainMenu(List<ISearcher> searchers)
         {

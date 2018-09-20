@@ -3,10 +3,6 @@ using SearchInFile.View.Interfaces;
 using System.IO;
 using System.Collections.Generic;
 using SearchInFile.Models;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Threading;
 using ISorterNamespace;
 
 namespace SearchInFile.Presenters
