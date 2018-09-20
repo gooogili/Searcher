@@ -1,0 +1,6 @@
+C:\Users\POsikovskyi\Desktop\SearchInFile\ISearcher\bin\Debug\ISearcher.dll
+C:\Users\POsikovskyi\Desktop\SearchInFile\ISearcher\bin\Debug\ISearcher.pdb
+C:\Users\POsikovskyi\Desktop\SearchInFile\ISearcher\obj\Debug\ISearcher.csprojAssemblyReference.cache
+C:\Users\POsikovskyi\Desktop\SearchInFile\ISearcher\obj\Debug\ISearcher.csproj.CoreCompileInputs.cache
+C:\Users\POsikovskyi\Desktop\SearchInFile\ISearcher\obj\Debug\ISearcher.dll
+C:\Users\POsikovskyi\Desktop\SearchInFile\ISearcher\obj\Debug\ISearcher.pdb

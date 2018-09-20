@@ -1,0 +1,9 @@
+C:\Users\POsikovskyi\Desktop\SearchInFile\ExactSearch\bin\Debug\ExactSearch.dll
+C:\Users\POsikovskyi\Desktop\SearchInFile\ExactSearch\bin\Debug\ExactSearch.pdb
+C:\Users\POsikovskyi\Desktop\SearchInFile\ExactSearch\bin\Debug\ISearcher.dll
+C:\Users\POsikovskyi\Desktop\SearchInFile\ExactSearch\bin\Debug\ISearcher.pdb
+C:\Users\POsikovskyi\Desktop\SearchInFile\ExactSearch\obj\Debug\ExactSearch.csproj.CoreCompileInputs.cache
+C:\Users\POsikovskyi\Desktop\SearchInFile\ExactSearch\obj\Debug\ExactSearch.csproj.CopyComplete
+C:\Users\POsikovskyi\Desktop\SearchInFile\ExactSearch\obj\Debug\ExactSearch.dll
+C:\Users\POsikovskyi\Desktop\SearchInFile\ExactSearch\obj\Debug\ExactSearch.pdb
+C:\Users\POsikovskyi\Desktop\SearchInFile\ExactSearch\obj\Debug\ExactSearch.csprojAssemblyReference.cache

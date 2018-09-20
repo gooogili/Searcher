@@ -1,0 +1,9 @@
+C:\Users\POsikovskyi\Desktop\SearchInFile\IModel\bin\Debug\IModel.dll
+C:\Users\POsikovskyi\Desktop\SearchInFile\IModel\bin\Debug\IModel.pdb
+C:\Users\POsikovskyi\Desktop\SearchInFile\IModel\bin\Debug\ISearcher.dll
+C:\Users\POsikovskyi\Desktop\SearchInFile\IModel\bin\Debug\ISearcher.pdb
+C:\Users\POsikovskyi\Desktop\SearchInFile\IModel\obj\Debug\IModel.csprojAssemblyReference.cache
+C:\Users\POsikovskyi\Desktop\SearchInFile\IModel\obj\Debug\IModel.csproj.CoreCompileInputs.cache
+C:\Users\POsikovskyi\Desktop\SearchInFile\IModel\obj\Debug\IModel.csproj.CopyComplete
+C:\Users\POsikovskyi\Desktop\SearchInFile\IModel\obj\Debug\IModel.dll
+C:\Users\POsikovskyi\Desktop\SearchInFile\IModel\obj\Debug\IModel.pdb

@@ -1,0 +1,9 @@
+C:\Users\POsikovskyi\Desktop\SearchInFile\InexactSearch\bin\Debug\InexactSearch.dll
+C:\Users\POsikovskyi\Desktop\SearchInFile\InexactSearch\bin\Debug\InexactSearch.pdb
+C:\Users\POsikovskyi\Desktop\SearchInFile\InexactSearch\bin\Debug\ISearcher.dll
+C:\Users\POsikovskyi\Desktop\SearchInFile\InexactSearch\bin\Debug\ISearcher.pdb
+C:\Users\POsikovskyi\Desktop\SearchInFile\InexactSearch\obj\Debug\InexactSearch.csprojAssemblyReference.cache
+C:\Users\POsikovskyi\Desktop\SearchInFile\InexactSearch\obj\Debug\InexactSearch.csproj.CoreCompileInputs.cache
+C:\Users\POsikovskyi\Desktop\SearchInFile\InexactSearch\obj\Debug\InexactSearch.csproj.CopyComplete
+C:\Users\POsikovskyi\Desktop\SearchInFile\InexactSearch\obj\Debug\InexactSearch.dll
+C:\Users\POsikovskyi\Desktop\SearchInFile\InexactSearch\obj\Debug\InexactSearch.pdb

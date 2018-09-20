@@ -1,0 +1,15 @@
+C:\Users\POsikovskyi\Desktop\SearchInFile\Presenter\bin\Debug\Presenter.dll
+C:\Users\POsikovskyi\Desktop\SearchInFile\Presenter\bin\Debug\Presenter.pdb
+C:\Users\POsikovskyi\Desktop\SearchInFile\Presenter\bin\Debug\IMainView.dll
+C:\Users\POsikovskyi\Desktop\SearchInFile\Presenter\bin\Debug\IModel.dll
+C:\Users\POsikovskyi\Desktop\SearchInFile\Presenter\bin\Debug\ISearcher.dll
+C:\Users\POsikovskyi\Desktop\SearchInFile\Presenter\bin\Debug\IMainView.pdb
+C:\Users\POsikovskyi\Desktop\SearchInFile\Presenter\bin\Debug\IModel.pdb
+C:\Users\POsikovskyi\Desktop\SearchInFile\Presenter\bin\Debug\ISearcher.pdb
+C:\Users\POsikovskyi\Desktop\SearchInFile\Presenter\obj\Debug\Presenter.csprojAssemblyReference.cache
+C:\Users\POsikovskyi\Desktop\SearchInFile\Presenter\obj\Debug\Presenter.csproj.CoreCompileInputs.cache
+C:\Users\POsikovskyi\Desktop\SearchInFile\Presenter\obj\Debug\Presenter.csproj.CopyComplete
+C:\Users\POsikovskyi\Desktop\SearchInFile\Presenter\obj\Debug\Presenter.dll
+C:\Users\POsikovskyi\Desktop\SearchInFile\Presenter\obj\Debug\Presenter.pdb
+C:\Users\POsikovskyi\Desktop\SearchInFile\Presenter\bin\Debug\Model.dll
+C:\Users\POsikovskyi\Desktop\SearchInFile\Presenter\bin\Debug\Model.pdb
