@@ -21,7 +21,6 @@ namespace SearchInFile.Presenters
         public void OnMainViewLoad()
         {
             _model.SeachersLoading();
-            _view.CreateMainMenu(_model.Searchers);
         }
 
         public List<string> GetInformationAboutSeachers()

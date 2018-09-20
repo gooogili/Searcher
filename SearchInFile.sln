@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMainView", "IMainView\IMai
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IModel", "IModel\IModel.csproj", "{D3DE27C9-A7D4-43DF-AEBD-51BBCD13EE92}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainViewWinForm", "MainViewWinForm\MainViewWinForm.csproj", "{78166C1D-1D11-48D9-9779-68AE39FDBF61}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{D3DE27C9-A7D4-43DF-AEBD-51BBCD13EE92}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D3DE27C9-A7D4-43DF-AEBD-51BBCD13EE92}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D3DE27C9-A7D4-43DF-AEBD-51BBCD13EE92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78166C1D-1D11-48D9-9779-68AE39FDBF61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78166C1D-1D11-48D9-9779-68AE39FDBF61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78166C1D-1D11-48D9-9779-68AE39FDBF61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78166C1D-1D11-48D9-9779-68AE39FDBF61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -74,6 +80,7 @@ Global
 		{2C3E6015-25CA-4113-BDFA-834227E2CDFC} = {83F0D4B0-7B5E-4096-843E-C705950C17BD}
 		{A20481FD-47C8-41D2-9C96-90DCB3841984} = {48C1DAD4-D35D-41D1-A60E-D09C2A46CF7D}
 		{D3DE27C9-A7D4-43DF-AEBD-51BBCD13EE92} = {0591AE70-E7F0-4724-A694-6643AD80E5FC}
+		{78166C1D-1D11-48D9-9779-68AE39FDBF61} = {48C1DAD4-D35D-41D1-A60E-D09C2A46CF7D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E6596D8D-F633-4D4B-AA11-5D1C7A155862}

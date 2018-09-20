@@ -15,9 +15,10 @@ namespace SearchInFile.View
         {
             presenter = new Presenter(this);
             presenter.OnMainViewLoad();
+            CreateMainMenu();
         } 
 
-        public void CreateMainMenu(List<ISearcher> searchers)
+        public void CreateMainMenu()
         {
             string choiseButton;
             int pressedButton;
